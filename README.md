@@ -1,3 +1,3 @@
 # BeerRestAPI
-Rest Api implementation
+Rest Api implementation.
 # Modules
