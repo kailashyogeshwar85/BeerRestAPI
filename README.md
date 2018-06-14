@@ -1,4 +1,4 @@
-# BeerRestAPI 
+# BeerRestAPI
 Rest Api implementation.
 
 * JSON Support
