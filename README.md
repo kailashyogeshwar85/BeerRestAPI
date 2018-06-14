@@ -1,6 +1,6 @@
 # BeerRestAPI
 Rest Api implementation.
 
-* JSON Support
+* JSON Support.    
 
 # Modules
